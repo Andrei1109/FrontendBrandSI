@@ -1,0 +1,42 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.heading {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.brand-list {
+  list-style: none;
+  padding: 0;
+}
+
+.brand-item {
+  margin-bottom: 30px;
+}
+
+.brand-name {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.profile-list {
+  list-style: none;
+  padding: 0;
+}
+
+.profile-item {
+  margin-bottom: 15px;
+}
+
+.profile-info {
+  margin: 0;
+}
+
+.info-label {
+  font-weight: bold;
+}
